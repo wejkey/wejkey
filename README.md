@@ -1,6 +1,6 @@
 # Hey, I'm Wejkey
 
-Someone who loves to use Github as place to share his *extreme* brain ideas.
+Someone who loves to use Github as place to share his *unbelievably* good brain ideas.
 
 ---
 
@@ -38,10 +38,6 @@ Someone who loves to use Github as place to share his *extreme* brain ideas.
 
 ### 📫 How to reach me
 
-- You can't. Unless you find a way I dont know about.
-
----
-
-*Good morning by the way*
+[on this amazing site](https://wejkey..github.io)
 
 ---
