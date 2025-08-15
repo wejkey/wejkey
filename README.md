@@ -11,8 +11,6 @@ Someone who loves to use Github as place to share his *unbelievably* good brain 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logoColor=white)
 
-(i know that i dont know many thinigs in java)
-
 ---
 
 ### 🔥 Current Projects
