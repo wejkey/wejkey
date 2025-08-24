@@ -9,7 +9,7 @@ Someone who loves to use Github as place to share his *unbelievably* good brain 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logoColor=white)<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logoColor=black)<br>
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logoColor=white) (still learning)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logoColor=white)
 
 ---
 
@@ -17,6 +17,7 @@ Someone who loves to use Github as place to share his *unbelievably* good brain 
 
 - **Wejkey** – Website. Nothing spicy
 - **MCUtility** - Something spicier. Website you should [visit](https://mcutility.pages.dev) if you're into Minecraft.
+- **InternationalMC** - spiciest one. Visit [InternationalMC Website](https://internationalmc.pages.dev) to learn more 
 
 ### 📦 Archived Projects
 
