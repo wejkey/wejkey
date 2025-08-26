@@ -32,7 +32,6 @@ Someone who loves to use Github as place to share his *unbelievably* good brain 
 ### 📊 GitHub Stats
 
 ![wejkey's Stats](https://github-readme-stats.vercel.app/api?username=wejkey&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![wejkey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wejkey&theme=dracula&hide_border=true)
 ![wejkey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wejkey&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ---
