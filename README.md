@@ -4,7 +4,7 @@ Someone who loves to use Github as place to share his *unbelievably* good brain 
 
 ---
 
-### ⚙️ Things I Use (The Most)
+### Things I Use (The Most)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logoColor=white)<br>
@@ -34,8 +34,8 @@ Someone who loves to use Github as place to share his *unbelievably* good brain 
 
 ---
 
-### How to reach me
+### You can reach me
 
-[on this amazing site](https://wejkey.github.io)
+Discord: Wejkey, Email: rewejkem@proton.me, 
 
 ---
