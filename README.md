@@ -15,7 +15,7 @@ Someone who loves to use Github as place to share his *unbelievably* good brain 
 
 ### Current Projects
 
-- [**InternationalMC Website**](https://internationalmc.pages.dev) 
+- [**InternationalMC**](https://internationalmc.pages.dev) 
 
 ### Archived Projects
 
