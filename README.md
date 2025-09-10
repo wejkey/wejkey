@@ -13,31 +13,29 @@ Someone who loves to use Github as place to share his *unbelievably* good brain 
 
 ---
 
-### 🔥 Current Projects
+### Current Projects
 
-- **Wejkey** – Website. Nothing spicy
-- **MCUtility** - Something spicier. Website you should [visit](https://mcutility.pages.dev) if you're into Minecraft.
-- **InternationalMC** - spiciest one. Visit [InternationalMC Website](https://internationalmc.pages.dev) to learn more 
+- [**InternationalMC Website**](https://internationalmc.pages.dev) 
 
-### 📦 Archived Projects
+### Archived Projects
 
 > It would take years to put here every single project, so just the best ones:
 
-- **SoneMC** - Minecraft plugin development. Created around mid-February 2025
-- **SoneMC2** - Practically the same but with focus on SoneRPG. (RPG Plugin)
-- **Soneviconia** - I even forgot what it was about. It was long time ago, with some tools. E.g. distance calc using maps, holidays countdowns, random generators etc.
+- **SoneMC** - Minecraft plugin development. Created around mid-February 2025. Reason: Major changes
+- **Soneviconia** - I even forgot what it was about. It was long time ago, with some tools. E.g. distance calc using maps, holidays countdowns, random generators etc. Reason: Inactivity
+- **MCUtility** - General help tool for Minecraft. Generators, editors, etc.. Reason: Inactivity.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![wejkey's Stats](https://github-readme-stats.vercel.app/api?username=wejkey&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![wejkey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wejkey&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
-[on this amazing site](https://wejkey..github.io)
+[on this amazing site](https://wejkey.github.io)
 
 ---
